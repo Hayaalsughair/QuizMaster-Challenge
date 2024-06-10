@@ -25,7 +25,7 @@
 5. **Using the QuizMaster Application:**
 	- The program will display a series of true or false questions on various topics.
 	- Answer each question by typing T for true or F for false and pressing Enter.
-	- After all questions have been answered or timed out, the program will display your final score.
+	- After all questions have been answered, the program will display your final score.
 
 
 Have fun using QuizMaster to challenge and enhance your knowledge! :star2:
